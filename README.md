@@ -1,8 +1,8 @@
 # dnschef
 dnschef
 
-push项目到github:
-在github创建项目
+push project to github:
+create project on github
 
 $ git init
 
@@ -21,3 +21,15 @@ $ git remote add origin https://github.com/<your-github-username>/my-first-blog.
 $ git pull https://github.com/<your-github-username>/my-first-blog.git master
 
 $ git push -u origin master
+
+
+
+$ git status
+
+$ git add updated_filename
+
+$ git commit -m "My Django Girls app, first commit"
+
+$ git pull
+
+$ git push origin master
